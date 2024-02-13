@@ -6,3 +6,4 @@ I have creates page object classes under src/test/java in com.pageobjects packag
 I have created Testclass under src/test/java in com.testspackage.
 I have added driver.exe files under drivers folder.
 I have added bug report in excel sheet.
+You can run project using testng.xml file
